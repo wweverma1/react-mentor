@@ -1,4 +1,4 @@
 # React-Mentor
-A react app which acts like a mentor by giving you appropriate advice whenever you need.
+A React app that works as a mentor by providing you with helpful advise anytime you need it.
 
-Deployed at : https://react-mentor.netlify.app/
+Deployed at [Netlify](https://react-mentor.netlify.app/)
